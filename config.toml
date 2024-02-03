@@ -3,3 +3,6 @@ theme = "tsmanner"
 [editor.whitespace.render]
 space = "all"
 tab = "all"
+
+[editor.cursor-shape]
+insert = "bar"
