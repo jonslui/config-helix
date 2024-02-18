@@ -1,3 +1,5 @@
 inherits = "papercolor-dark"
 
 comment = { fg = "#6A8759" }
+
+"diagnostic.warning" = { fg = "bright0", modifiers = [], underline = { color = "bright5", style = "curl" } }
