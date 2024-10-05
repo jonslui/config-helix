@@ -10,3 +10,6 @@ tab = "all"
 [editor.cursor-shape]
 insert = "bar"
 normal = "underline"
+
+[editor.statusline]
+right = ["diagnostics", "selections", "primary-selection-length", "register", "position", "file-encoding"]
